@@ -1,0 +1,2 @@
+# azure-data-pipeline
+Azure Data Factory is Azure’s cloud ETL service for scale-out serverless data integration and data transformation. It offers a code-free UI for intuitive authoring and single-pane-of-glass monitoring and management. You can also lift and shift existing SSIS packages to Azure and run them with full compatibility in ADF.  In this tutorial, we’ll create our very first ADF pipeline that simply copies data from a google sheet Azure Function &amp; Google Drive API, stores the results in Azure SQL Server, and visualize it on Power BI.
