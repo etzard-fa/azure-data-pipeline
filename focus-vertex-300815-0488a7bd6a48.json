@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "focus-vertex-300815",
+  "private_key_id": "0488a7bd6a48836ee9e764af692efb1a5dfbee0a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCa1h7Ogy91kYHt\nRJzc72FAiHDJAaCjdkbNVNt3pzRaFziaxjz6Y5ZdF2JOtNwR2J+G5qOTqe6vUe2U\nt4Sc7ClEtF7RVKCa62QiltyGHIZ5+NrVYx8uTa+2BFOWb2Wd99Yf1QAHhSbLFCFI\nZ2bHAiLDABxU6Fgz+JLeZvBM6wNDB9yWBj3RGvfsPCS8pyAq6+qc4utS3R5s62RB\nZoweTycy4TW6MXnLkZ/SzdMqLJEbDM1Brtx6HR1sAXEquxf5/WrGMxnmCV/3OdJq\nPZiWa8AgW9js8QmJ2cJrw0jP+U9hZsVlhLmEY3IB0fL52+mL4EU5EPwRch+BGei1\n0RQJ4QW1AgMBAAECggEAMMKWcAVrCDS6/FvbpE30S+zLy9kp2+BO+rGq7ZrnxylB\n56ffIyEChK1tBYk6NpqH3mU6hTGCG48K6QcECaDrfBnrNDPY4gCYB7aHmupXxQiD\n7agp9Rx85a6mHh1VnHIkaeDbggLCDTj5JEJ/4NMA3HTn9ys2P6ObqNM1AJwP6mcN\nfwh9xWkbQuCGUpMhELjnwPQHULY7GjxrAHYIPzi9N5061gaxxzLYQyn7EaZAzjgv\ncSEaPuOP6SfR6Xt8lriucfulxoZoh4JpPi2Nv9K6Rj9kdJjO+BsJnBwL7BSpiYsg\n0Rh/YCc3pGrUqK8PZjS5Omx+nWjC7n3BjPqfrp4MPwKBgQDI+SdLdon51OKxdVNC\n0rkGqeyb2D7MvKS845tt7hilkUsYWkH81f6aa8lspeOWrfWPxI9X520CSdZktyVO\nk/FuVRBWOg601CZE4XhqWzacmycG7zk669w+yOpGcruP8WrIJtERirIv5Sc2pl2H\nMRPTMUm2cDJThu6q46+ODCtTWwKBgQDFOxcdTDKm2qQDtafU77uO2mk/srcHuVMP\nn5789HHEaom/onBuHoS1Fh2CbJO4FwHSmxQG8G1mVhN3wTkXOZZoEC9Z6Cxrl6M0\n6aqn0Rw3yFdGrPiK8rv+XAgDiOomSfOcsHxqUC2cZJEriLdvdMooX6OvNsTB287L\nP5NT//uoLwKBgC/HtITnaMRBzad9Ck9/w8eGzJ78mWmZi9zwi/pluexbD6x5gOi4\ng7B44cl34xTmxNPqWl3+wlbh8Ru+wxrcZ3DgvmKRqP9q1LJZnIRErUYsSOoII+YT\nPyiaIcCf9GGzdryhJeFyxQxIAbunb+L9UwZJ2ImMQRrEoKd2PD2cPQyzAoGBAL3x\nIVqSxnkQOUJlUINuePejehbhOwmSPd7e/5NmqqXZYF2Qx6wVcgKfkL3JaR2x8oxr\n0wa3xvP2U3tSN3QZfrMrWx6/zP+1InVTz4kchotmQj8LV7Ug/VGCOimFUtKbB6TQ\nBpGwM6zY4UHGwbnyBLqLGK0mFqkH0gjFalJMRYT7AoGAVTC+3e6DXAjfxtQn+U23\nJiEpkp/HS8pftA1Izc9s27gm8+5mUsvvLt3XXaLG82NZD9qjYunKBIveAd6pF8vu\nxDEw3BhaXNWmDjxPBVinjM+jk94EHTRiE+nxiN85ePVscunLJzMPFjGRw0tFwVjq\n79nXIXPPxEypdegR66FA7Ew=\n-----END PRIVATE KEY-----\n",
+  "client_email": "merpati-crm@focus-vertex-300815.iam.gserviceaccount.com",
+  "client_id": "118160379916687033712",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/merpati-crm%40focus-vertex-300815.iam.gserviceaccount.com"
+}

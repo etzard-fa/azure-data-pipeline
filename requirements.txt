@@ -1,0 +1,5 @@
+google_spreadsheet
+google-auth-oauthlib
+gspread
+pandas
+oauth2client
